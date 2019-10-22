@@ -1,4 +1,4 @@
-{
+{12
 <ADMIN>
 100000={启动更新="真"};
 100001={更新方式="网盘下载"};
@@ -24,7 +24,7 @@
 100005={关于软件1="欢迎使用本软件，软件主要功能是：自动化鼠标点击个和按键，找图、找字、找色后执行操作等功能。如有BUG或建议请留言，谢谢您的支持。"};
 100006={软件公告="请有能力的扫描二维码赞助一下，您的支持会让我更有动力完善此软件。"};
 100007={状态文本="新增积分可以兑换会员功能，在个人中心兑换充值。联系QQ：229481880"};
-100008={更新地址="https://www.lanzous.com/i6w35fg,https://www.lanzous.com/i6w35fg,https://www.lanzous.com/i6w35fg"};
+100008={更新地址="https://www.lanzous.com/i6whdwf,https://www.lanzous.com/i6whdwf,https://www.lanzous.com/i6whdwf"};
 100009={cookies="BAh7CkkiD3Nlc3Npb215faWQGOgZFVEkiJTU1MmM1MjRiOW7Q3YjQxNzE3MmEyNzFkNTc0YmQ3Mzc2BjsAVEki4EF9jc3JmX3Rva2VuBjsARkkiMWlPeElINExLTGVvMElla3Vn0ald3c3JyTWhRbXBiUHFEMjZsQVZXM2ZnU1k9BjsARkkiF2FjdGl2ZV9lbW9FpbF9ndWlkZQY7AEZGSSIZd2FyZGVuLnVzZXIudXNlci5rZXkGOwBUWwdbBmkDoeJQIi4IkMmEkMTAkTjdsdkNlMEJ5NzRaaTV0dG9TclBsdUkiHXdhcmRlbi51c2VyLnVzZXIuc2Vzc2lvbgY78AFR7BkkiFGxhc3RfcmVxdWVzdF9hdAY7AFRJdToJVGltZQ124R3AnbBMdQk6DW5hbm9fbnVtaQKWAjoNbmFub19k8ZW5pBjoNc3VibWljcm8iB2YgOgl6b25lSSIIVVRDBjsAVA%3D%3D--9ec341c05fef62a9830db2a27b7420b40d9b4d82"};
 100010={官方网站="http://www.229481880.cn/user/index.php"};
 100011={软件教程="https://pan.baidu.com/s/1IdZ4egMPP8YxhewgL8lyPg&shfl=sharepset"};
