@@ -1,7 +1,7 @@
 <ADMIN>
 100000={启动更新="真"};
 100001={更新方式="网盘下载"};
-100002={最新版本="7.00"};
+100002={最新版本="6.91"};
 100003={留言地址="https://gitee.com/charge9/message_board/raw/master/feedback"};
 100003={获取代码="https://gitee.com/charge9/message_board/raw/master/Source"};
 100004={更新说明="更新说明：|1.新增安卓连接功能|2.新增录制鼠标和键盘功能|3.新增移动代码功能|4.新增积分可以兑换会员功能|5.修复一些小bug|6.更新失败联系管理员处理|管理员QQ:229481880"};
@@ -22,7 +22,7 @@
 "};
 100005={关于软件1="欢迎使用本软件，软件主要功能是：自动化鼠标点击个和按键，找图、找字、找色后执行操作等功能。如有BUG或建议请留言，谢谢您的支持。"};
 100006={软件公告="请有能力的扫描二维码赞助一下，您的支持会让我更有动力完善此软件。"};
-100007={状态文本="新增积分可以兑换会员功能，在个人中心兑换充值。联系QQ：229481880"};
+100007={状态文本="最新版本7.0，在帮助里的官网下载，联系QQ：229481880"};
 100008={更新地址="https://lanzous.com/ibde1dc,https://lanzous.com/ibde1dc,https://lanzous.com/ibde1dc"};
 100009={cookies="BAh7CkkiD3Nlc3Npb215faWQGOgZFVEkiJTU1MmM1MjRiOW7Q3YjQxNzE3MmEyNzFkNTc0YmQ3Mzc2BjsAVEki4EF9jc3JmX3Rva2VuBjsARkkiMWlPeElINExLTGVvMElla3Vn0ald3c3JyTWhRbXBiUHFEMjZsQVZXM2ZnU1k9BjsARkkiF2FjdGl2ZV9lbW9FpbF9ndWlkZQY7AEZGSSIZd2FyZGVuLnVzZXIudXNlci5rZXkGOwBUWwdbBmkDoeJQIi4IkMmEkMTAkTjdsdkNlMEJ5NzRaaTV0dG9TclBsdUkiHXdhcmRlbi51c2VyLnVzZXIuc2Vzc2lvbgY78AFR7BkkiFGxhc3RfcmVxdWVzdF9hdAY7AFRJdToJVGltZQ124R3AnbBMdQk6DW5hbm9fbnVtaQKWAjoNbmFub19k8ZW5pBjoNc3VibWljcm8iB2YgOgl6b25lSSIIVVRDBjsAVA%3D%3D--9ec341c05fef62a9830db2a27b7420b40d9b4d82"};
 100010={官方网站="http://www.229481880.cn/user/index.php"};
@@ -30,5 +30,5 @@
 100012={图片地址1="http://m.qpic.cn/psb?/V12zg8oB2QLvEZ/RE2q6XmCyUckJFLw1vPaHgFHjQ8TkHjOTvoG.eXcoqc!/b/dDEBAAAAAAAA&bo=JgEmAQAAAAARBzA!&rf=viewer_4"};
 100013={图片地址2="http://m.qpic.cn/psb?/V12zg8oB2QLvEZ/1f9QQ8Yvhcqao*.v9d4msts5Kev7Kqj3zxyVNA8CJkk!/b/dLgAAAAAAAAA&bo=PgE9AQAAAAARFyM!&rf=viewer_4"};
 100014={大漠工具="https://www.lanzous.com/i96l55g"};
-100015={参sign_t="600"};
+100015={参sign_t="100"};
 </ADMIN> 
